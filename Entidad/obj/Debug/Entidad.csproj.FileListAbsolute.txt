@@ -1,0 +1,12 @@
+C:\Users\gusta\source\repos\WindowsFormsApp1\Entidad\bin\Debug\Entidad.dll
+C:\Users\gusta\source\repos\WindowsFormsApp1\Entidad\bin\Debug\Entidad.pdb
+C:\Users\gusta\source\repos\WindowsFormsApp1\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\WindowsFormsApp1\Entidad\obj\Debug\Entidad.dll
+C:\Users\gusta\source\repos\WindowsFormsApp1\Entidad\obj\Debug\Entidad.pdb
+C:\Users\gusta\source\repos\WindowsFormsApp1\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\ESPEDANE\Entidad\bin\Debug\Entidad.dll
+C:\Users\gusta\source\repos\ESPEDANE\Entidad\bin\Debug\Entidad.pdb
+C:\Users\gusta\source\repos\ESPEDANE\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\ESPEDANE\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ESPEDANE\Entidad\obj\Debug\Entidad.dll
+C:\Users\gusta\source\repos\ESPEDANE\Entidad\obj\Debug\Entidad.pdb
